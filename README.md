@@ -55,10 +55,7 @@ Admins can configure new courses/tasks and monitor student progress with a clean
 
 ## 🔗 Live Demo
 
-- **Frontend (Netlify)**: [🌐(http://comforting-empanada-9b48a8.netlify.app]((http://comforting-empanada-9b48a8.netlify.app)
-- **Backend (Replit)**: [💻 [your-replit-link][(http://comforting-empanada-9b48a8.netlify.app)](https://00615303-1375-4cce-b8a7-296db926de7b-00-itlq4wwb4xx7.sisko.replit.dev/)](https://your-replit-url.replit.dev)
-
----
+- **Frontend (Netlify)**: [🌐(http://comforting-empanada-9b48a8.netlify.app]
 
 ## 🔧 Installation & Setup
 
